@@ -1,4 +1,4 @@
-** Bengali Handwritten Digits**
+**Bengali Handwritten Digits**
 
 The English handwritten digit recognition is one of the most popular problems in machine learning and computer vision. This problem is solved using various techniques. In this assignment, we will classify Bengali Handwritten Digits using logistic regression.
  
@@ -15,7 +15,7 @@ In this assignment our main goal will be to achieve a good result using logistic
 > For this experiment, we will use the dataset [NumtaDB](https://www.kaggle.com/BengaliAI/numta/) which is available in **Kaggle**. 
 There will be a total of **54908** images, and it was split in a **90:10** ratio. **90%** (**49417**) of data is used in training and **10%** (**5491**) was used in testing.
 
-#Snapshot of Dataset
+Snapshot of Dataset
 
 > <div align="center">
 <img src="https://drive.google.com/uc?id=1LvkNwV1My2RniR_JsbasBET1fa97eMQu" width="500">
