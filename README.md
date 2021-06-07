@@ -58,12 +58,12 @@ We will use different learning rate to achieve better performance
 
 **Using Deep Neural Network**
 
-| Experiment Number      | Optimizer     | Learning Rate     |  Num of Hidden Layer   | Btach Size |Num of epoch    | |  Accurecy of last 1000 iterations    |
-| :------------- | :----------: |:----------: | :-----------: | :-----------:  | :-----------: || :-----------: |
-|  1 |SGD   | 0.09 | 4| 128 | 38   ||72.93  |
-|  2 |SGD   | 0.5 | 4| 256 | 77   ||77.52  |
-|  3 |SGD   | 0.11 | 4| 128 | 38   ||76.12  |
-|  4 |SGD   | 0.04 | 4| 512 | 155   ||80.84  |
+| Experiment Number      | Optimizer     | Learning Rate     |  Num of Hidden Layer   | Btach Size |Num of epoch    |   Accurecy of last 1000 iterations    |
+| ------------- | ---------- |---------- | ----------- | -----------  | ----------- | ----------- |
+|  1 |SGD   | 0.09 | 4| 128 | 38   | 72.93  |
+|  2 |SGD   | 0.5 | 4| 256 | 77   | 77.52  |
+|  3 |SGD   | 0.11 | 4| 128 | 38   | 76.12  |
+|  4 |SGD   | 0.04 | 4| 512 | 155   | 80.84  |
 
 
 
