@@ -45,14 +45,14 @@ We will use different learning rate to achieve better performance
 
 **Using Logistic Regression**
 
-| Experiment Number      | Optimizer     | Learning Rate    | | Accurecy of last 500 iterations    |
-| :------------- | :----------: | :-----------: || :-----------: |
-|  1 |SGD   | 0.01    ||38.12  |
-|  2 |SGD   | 0.02    ||  40.07 |
-| 3   | SGD | 0.03 || 36.24 |
-|  4 |Adam   | 0.0001    ||35.95 |
-|  5 |Adam  | 0.0002   || 38.72 |
-|  6 |Adam   | 0.0003    || 40.23 | |
+| Experiment Number      | Optimizer     | Learning Rate    |  Accurecy of last 500 iterations    |
+| ------------- | ---------- | ----------- | ----------- |
+|  1 |SGD   | 0.01    |38.12  |
+|  2 |SGD   | 0.02    |  40.07 |
+| 3   | SGD | 0.03 | 36.24 |
+|  4 |Adam   | 0.0001    | 35.95 |
+|  5 |Adam  | 0.0002   | 38.72 |
+|  6 |Adam   | 0.0003    | 40.23 | 
 
 
 
